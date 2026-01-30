@@ -94,4 +94,4 @@ Visualizations were created using **Matplotlib** and **Seaborn** to clearly comm
 
 1. Clone the repository: 
 ```bash
-git clone https://github.com/nancysakhiya/book-popularity-predictor.git
+https://github.com/nancysakhiya/Book-popularity-predictor.git
