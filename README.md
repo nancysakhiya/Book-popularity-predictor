@@ -1,4 +1,4 @@
-# 📚 What Makes a Good Book?
+# What Makes a Good Book?
 ## Book Popularity Prediction using Machine Learning
 
 ### Project Overview
